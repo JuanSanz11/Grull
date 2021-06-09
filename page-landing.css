@@ -157,7 +157,7 @@ background: var(--color-text-complement);
     }
 }
 
-@media (max-height:414px){
+@media (min-height:414px){
     .hero-image{
         margin-left: 0px;
         margin-bottom: -250px;
