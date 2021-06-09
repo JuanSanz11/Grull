@@ -192,7 +192,7 @@ background: var(--color-text-complement);
 @media (max-height:414px){
     .hero-image{
         margin-left: 0px;
-        margin-bottom: 50px;
+        margin-bottom: -110px;
         grid-area: image;
         height: 500px;
         transition: 0.5s;
