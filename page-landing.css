@@ -160,7 +160,7 @@ background: var(--color-text-complement);
 @media (max-height:414px){
     .hero-image{
         margin-left: 0px;
-        margin-bottom: -130px;
+        margin-bottom: -150px;
         grid-area: image;
         height: 500px;
         transition: 0.5s;
@@ -176,7 +176,7 @@ background: var(--color-text-complement);
         align-items: center;
         text-align: center;
         margin-left: 10px;
-        margin-bottom: 200px;
+        margin-bottom: 300px;
         font-size: 4rem;
         cursor: pointer; /*llama la manito en el cursor*/
         opacity: 50%;
