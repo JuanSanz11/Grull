@@ -157,7 +157,7 @@ background: var(--color-text-complement);
     }
 }
 
-@media (min-height:414px){
+@media (max-height:414px){
     .hero-image{
         margin-left: 0px;
         margin-bottom: -250px;
@@ -175,8 +175,8 @@ background: var(--color-text-complement);
     .total-connections{
         align-items: center;
         text-align: center;
-        margin-left: 10px;
-        margin-bottom: 300px;
+        margin-left: 300px;
+        margin-bottom: 200px;
         font-size: 4rem;
         cursor: pointer; /*llama la manito en el cursor*/
         opacity: 50%;
@@ -188,8 +188,4 @@ background: var(--color-text-complement);
         opacity: 70%;
     }
 }
-
-
-
-
 
